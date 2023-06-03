@@ -50,7 +50,7 @@ To run Charlie AI, you'll need the following:
    - "Open github(You can add website list from config.py file)"
    - "Open Calculator((You can add applications list from config.py file))"
    - "What's the time?"
-   - "'Open (website name with domain) website'. eg say-'open nbc news website' it's opens 'nbcnews .com'"
+   - "'Open (website name with domain) website'. eg say-'open nbc news dot com website' it's opens 'nbcnews .com'"
    - "'Open (username) YouTube channel'. eg say-'open m r beast youtube channel ' it's opens 'youtube .com/@mrbeast'"
    - "'according to wikipedia (Ask for information)'. eg say- 'according to wikipedia what is python'"
 
